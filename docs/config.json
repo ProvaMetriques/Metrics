@@ -2,7 +2,7 @@
     "metrics_scope": "org",
     "members":"org",
     "features":[
-        "issues","pull-requests"
+        "","pull-requests"
     ],
     "excluded_members": [
     ],
