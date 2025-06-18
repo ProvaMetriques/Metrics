@@ -37,9 +37,9 @@
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 0,
+            "DidacLinares": 1,
             "didaclinaresUPC": 0,
-            "non_assigned": 2
+            "non_assigned": 1
         },
         "closed": {
             "DidacLinares": 0,
@@ -170,7 +170,7 @@
                 "assigned_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0,
-                    "non_assigned": 0
+                    "non_assigned": 1
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -184,13 +184,13 @@
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0
                 },
-                "todo": 0,
+                "todo": 1,
                 "in_progress": 0,
                 "done": 0,
                 "total_issues": 1,
-                "total_issues_with_type": 0,
+                "total_issues_with_type": 1,
                 "total_features": 0,
-                "total_tasks": 0,
+                "total_tasks": 1,
                 "total_bugs": 0,
                 "total_features_todo": 0,
                 "total_features_in_progress": 0,
@@ -201,7 +201,7 @@
                 "assigned_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0,
-                    "non_assigned": 0
+                    "non_assigned": 1
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -215,13 +215,13 @@
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0
                 },
-                "todo": 0,
+                "todo": 1,
                 "in_progress": 0,
                 "done": 0,
                 "total_issues": 1,
-                "total_issues_with_type": 0,
+                "total_issues_with_type": 1,
                 "total_features": 0,
-                "total_tasks": 0,
+                "total_tasks": 1,
                 "total_bugs": 0,
                 "total_features_todo": 0,
                 "total_features_in_progress": 0,
