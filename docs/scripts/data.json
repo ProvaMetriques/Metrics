@@ -1,0 +1,2946 @@
+{
+    "members": [
+        "DidacLinares",
+        "didaclinaresUPC"
+    ],
+    "members_images": {
+        "DidacLinares": "https://avatars.githubusercontent.com/u/138216841?v=4",
+        "didaclinaresUPC": "https://avatars.githubusercontent.com/u/154509391?v=4"
+    },
+    "repos": [
+        "Metrics",
+        "prova",
+        "prova2",
+        "MetricsApp",
+        "MetricsAppPages",
+        "MetricsAppTemplate"
+    ],
+    "pull_requests": {
+        "PR_kwDOOPpDGc6Rf5n2": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPpDGc6Rf563": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6Qx-Ld": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6RCe4w": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6RCmJ2": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6R7xm5": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6SDcq-": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "didaclinaresUPC"
+        },
+        "PR_kwDOOPjcdc6SFF5e": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6SNoaI": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6SzmK7": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "didaclinaresUPC"
+        },
+        "PR_kwDOOPjcdc6TITKQ": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6TIThl": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6TIVVx": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6TIZp2": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6TIaCs": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6TJncD": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6UcYAp": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6W37-l": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6W7TqJ": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6XNEX0": {
+            "state": "CLOSED",
+            "author": "DidacLinares",
+            "merged": false,
+            "merged_by": null
+        },
+        "PR_kwDOOPjcdc6YOvxs": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOPjcdc6YOwM9": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6SFGLp": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6TOLre": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6TZAIJ": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6UEo4E": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6UcYOG": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6VDg6c": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6VHlZb": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6VlUKD": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6W7UGl": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6W7jAs": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6W7jxS": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6YOwjm": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6YOxJH": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6ZAdN-": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        },
+        "PR_kwDOOVdRfM6ZAdWd": {
+            "state": "MERGED",
+            "author": "DidacLinares",
+            "merged": true,
+            "merged_by": "DidacLinares"
+        }
+    },
+    "issues": {
+        "I_kwDOOQIX7c6xMbU_": {
+            "state": "OPEN",
+            "assignee": null,
+            "has_pull_request": false,
+            "pr_author_is_assignee": null
+        },
+        "I_kwDOOQIX7c6xMcBY": {
+            "state": "OPEN",
+            "assignee": "didaclinaresUPC",
+            "has_pull_request": false,
+            "pr_author_is_assignee": null
+        },
+        "I_kwDOOPpDGc6xRQP6": {
+            "state": "CLOSED",
+            "assignee": null,
+            "has_pull_request": true,
+            "pr_author_is_assignee": false
+        },
+        "I_kwDOOPpDGc6xRQds": {
+            "state": "CLOSED",
+            "assignee": null,
+            "has_pull_request": true,
+            "pr_author_is_assignee": false
+        },
+        "I_kwDOOPjcdc6wwUSs": {
+            "state": "CLOSED",
+            "assignee": "DidacLinares",
+            "has_pull_request": true,
+            "pr_author_is_assignee": true
+        },
+        "I_kwDOOPjcdc6wwUYT": {
+            "state": "OPEN",
+            "assignee": null,
+            "has_pull_request": false,
+            "pr_author_is_assignee": null
+        },
+        "I_kwDOOPjcdc6wxJVm": {
+            "state": "CLOSED",
+            "assignee": null,
+            "has_pull_request": true,
+            "pr_author_is_assignee": false
+        },
+        "I_kwDOOPjcdc6w9gSs": {
+            "state": "OPEN",
+            "assignee": null,
+            "has_pull_request": false,
+            "pr_author_is_assignee": null
+        },
+        "I_kwDOOPjcdc60p-xr": {
+            "state": "CLOSED",
+            "assignee": null,
+            "has_pull_request": false,
+            "pr_author_is_assignee": null
+        },
+        "I_kwDOOV7Bdc61hmc3": {
+            "state": "OPEN",
+            "assignee": "DidacLinares",
+            "has_pull_request": false,
+            "pr_author_is_assignee": null
+        }
+    },
+    "project": {
+        "DI_lADODDppEs4A37WmzgJa5Rc": {
+            "title": "h1",
+            "assignee": "didaclinaresUPC",
+            "status": "In Progress",
+            "item_type": "DraftIssue",
+            "iteration": null
+        },
+        "I_kwDOOV7Bdc61hmc3": {
+            "title": "h4",
+            "assignee": "DidacLinares",
+            "status": "In Progress",
+            "item_type": "Issue",
+            "iteration": "Iteration 2",
+            "issue_type": "Task"
+        },
+        "I_kwDOOPjcdc60p-xr": {
+            "title": "h2",
+            "assignee": null,
+            "status": "Done",
+            "item_type": "Issue",
+            "iteration": "Iteration",
+            "issue_type": null
+        },
+        "DI_lADODDppEs4A37WmzgJa5TI": {
+            "title": "h3",
+            "assignee": "DidacLinares",
+            "status": "Todo",
+            "item_type": "DraftIssue",
+            "iteration": "Iteration"
+        },
+        "DI_lADODDppEs4A37WmzgJb0cU": {
+            "title": "h5",
+            "assignee": "DidacLinares",
+            "status": "Done",
+            "item_type": "DraftIssue",
+            "iteration": null
+        },
+        "DI_lADODDppEs4A37WmzgJcM0E": {
+            "title": "ddddd",
+            "assignee": null,
+            "status": "Todo",
+            "item_type": "DraftIssue",
+            "iteration": "Iteration"
+        }
+    },
+    "iterations": [
+        {
+            "id": "a0c70aab",
+            "title": "Iteration 3",
+            "startDate": "2025-05-26",
+            "duration": 16
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgaCOWbOEzFwUw",
+            "title": "Iteration 2",
+            "startDate": "2025-05-14",
+            "duration": 12
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgZ4rF3OEwfCtQ",
+            "title": "Iteration",
+            "startDate": "2025-04-30",
+            "duration": 14
+        },
+        {
+            "id": "a0c70aab",
+            "title": "Iteration 3",
+            "startDate": "2025-05-26",
+            "duration": 16
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgaCOWbOEzFwUw",
+            "title": "Iteration 2",
+            "startDate": "2025-05-14",
+            "duration": 12
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgZ4rF3OEwfCtQ",
+            "title": "Iteration",
+            "startDate": "2025-04-30",
+            "duration": 14
+        },
+        {
+            "id": "a0c70aab",
+            "title": "Iteration 3",
+            "startDate": "2025-05-26",
+            "duration": 16
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgaCOWbOEzFwUw",
+            "title": "Iteration 2",
+            "startDate": "2025-05-14",
+            "duration": 12
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgZ4rF3OEwfCtQ",
+            "title": "Iteration",
+            "startDate": "2025-04-30",
+            "duration": 14
+        },
+        {
+            "id": "a0c70aab",
+            "title": "Iteration 3",
+            "startDate": "2025-05-26",
+            "duration": 16
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgaCOWbOEzFwUw",
+            "title": "Iteration 2",
+            "startDate": "2025-05-14",
+            "duration": 12
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgZ4rF3OEwfCtQ",
+            "title": "Iteration",
+            "startDate": "2025-04-30",
+            "duration": 14
+        },
+        {
+            "id": "a0c70aab",
+            "title": "Iteration 3",
+            "startDate": "2025-05-26",
+            "duration": 16
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgaCOWbOEzFwUw",
+            "title": "Iteration 2",
+            "startDate": "2025-05-14",
+            "duration": 12
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgZ4rF3OEwfCtQ",
+            "title": "Iteration",
+            "startDate": "2025-04-30",
+            "duration": 14
+        },
+        {
+            "id": "a0c70aab",
+            "title": "Iteration 3",
+            "startDate": "2025-05-26",
+            "duration": 16
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgaCOWbOEzFwUw",
+            "title": "Iteration 2",
+            "startDate": "2025-05-14",
+            "duration": 12
+        },
+        {
+            "id": "PVTFIV_lQDODDppEs4A37WmzgZ4rF3OEwfCtQ",
+            "title": "Iteration",
+            "startDate": "2025-04-30",
+            "duration": 14
+        }
+    ],
+    "statuses": [
+        "Todo",
+        "In Progress",
+        "Done",
+        "Todo",
+        "In Progress",
+        "Done",
+        "Todo",
+        "In Progress",
+        "Done",
+        "Todo",
+        "In Progress",
+        "Done",
+        "Todo",
+        "In Progress",
+        "Done",
+        "Todo",
+        "In Progress",
+        "Done"
+    ],
+    "commits": {
+        "7bc4dba5d197d5640917f61850cdd7c28bcb99ed": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-04-23",
+            "merge": false
+        },
+        "480bb582ce994e8f36febe42d9b3c271449ec495": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-04-23",
+            "merge": false
+        },
+        "66d7e648be23d924b79a1dbf7d233b77b751e8dc": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-04-23",
+            "merge": false
+        },
+        "11171ccd73f2f5be05d97d388117b25a8c1932c0": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-04-23",
+            "merge": false
+        },
+        "65faf822170a5a09fe03d033c4d2337756668dae": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "f1b24ba0e945426bec3fce16809fa94b8e617004": {
+            "author": "DidacLinares",
+            "additions": 14,
+            "deletions": 5,
+            "modified": 19,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "a1f90a3c4c4c7f2260ed2eee62000d04c7527fca": {
+            "author": "DidacLinares",
+            "additions": 9,
+            "deletions": 0,
+            "modified": 9,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "2cf775ee2bad1347b0d6299839a88ba1f8e6d97d": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "a442af4db7494f5ec9cd514f5d9dfb6ac8cd7b3e": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-04-05",
+            "merge": true
+        },
+        "2c08b937ad292bdb543c52b04b664d0b3369d56d": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-04-05",
+            "merge": false
+        },
+        "c841495da889b0ab4ec6ebac6b4a151f7edb4ad2": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 1,
+            "modified": 4,
+            "date": "2025-04-05",
+            "merge": true
+        },
+        "0c120d73f88cd8ac6b653f94b5cc78ebdc63dcb9": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 1,
+            "modified": 4,
+            "date": "2025-04-05",
+            "merge": false
+        },
+        "3fe46d7626f3bab14a498b8d4ec7d74cf2a09791": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "d4e271b7c53d9d6a9fb555d0c0fbbc3701a4dad4": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 1,
+            "modified": 3,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "188d69a50b0e7606bfa57fdcff444187c8eda1a2": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 68,
+            "modified": 68,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "74ae805118e9e2ce03dfcc99ab30490e023934b8": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-03-28",
+            "merge": false
+        },
+        "ed391c1b675055397c99dae9e293979f7ae64d1d": {
+            "author": "DidacLinares",
+            "additions": 67,
+            "deletions": 0,
+            "modified": 67,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "d1b9acae603c0001818cdf0447e62ad47a6304c1": {
+            "author": "DidacLinares",
+            "additions": 68,
+            "deletions": 0,
+            "modified": 68,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "41ca4e06cf6f9f1498484f48db5c661734bd221a": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "c6a7a3cab68ddb5f4bfa6a64e3ef2cd41e896544": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "ac83d0e2b70c55e0d964cd9f4c68279e1f77ccd6": {
+            "author": "DidacLinares",
+            "additions": 21,
+            "deletions": 0,
+            "modified": 21,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "d0b1df3099b3b4aa24c536c65a15933cd0a90d5c": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "1097a712f444729320357d96a1920ac1776966a9": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 3,
+            "modified": 6,
+            "date": "2025-05-15",
+            "merge": false
+        },
+        "4893b272ea46458cd15a8b086896737a555883fa": {
+            "author": "DidacLinares",
+            "additions": 4,
+            "deletions": 2,
+            "modified": 6,
+            "date": "2025-05-15",
+            "merge": false
+        },
+        "2aed9ecc4ddc0def67bf813b45415b47a96344ee": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-05-12",
+            "merge": false
+        },
+        "d5248e6c8b449bca1b21650bac19a54685347b9a": {
+            "author": "DidacLinares",
+            "additions": 183,
+            "deletions": 33,
+            "modified": 216,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "54af038e826e54b081d42ca06693cdf9e76eafe1": {
+            "author": "DidacLinares",
+            "additions": 123,
+            "deletions": 125,
+            "modified": 248,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "59fae5b380dc032942c4ad63c1d513986f2ac6b4": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-05-02",
+            "merge": false
+        },
+        "4c17f04c9224284a90155f332eb6106282afa363": {
+            "author": "DidacLinares",
+            "additions": 28,
+            "deletions": 19,
+            "modified": 47,
+            "date": "2025-04-30",
+            "merge": true
+        },
+        "258466ec0770d820e00fe1ce18b89743e71d93ca": {
+            "author": "DidacLinares",
+            "additions": 28,
+            "deletions": 28,
+            "modified": 56,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "599a57b52a7afd95d307cab5d536c8bbfb1e68cb": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 1,
+            "modified": 3,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "5c63dfa10be8547c268caf39e6fc0001bb40e1f4": {
+            "author": "DidacLinares",
+            "additions": 26,
+            "deletions": 18,
+            "modified": 44,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "4248aa9e00374c30cdb44be3fb5766b8db38378b": {
+            "author": "DidacLinares",
+            "additions": 1038,
+            "deletions": 0,
+            "modified": 1038,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "35b2a15d255a46157f40684f5f56ac527a5b23ed": {
+            "author": "DidacLinares",
+            "additions": 471,
+            "deletions": 53,
+            "modified": 524,
+            "date": "2025-05-30",
+            "merge": true
+        },
+        "bdb98be221debbd356032e256326725d5a376d13": {
+            "author": "DidacLinares",
+            "additions": 12,
+            "deletions": 12,
+            "modified": 24,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "b3b20cb0db2ba94a65e3e17401de19e8d9067785": {
+            "author": "DidacLinares",
+            "additions": 78,
+            "deletions": 77,
+            "modified": 155,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "b53c982bbf6e92ced6ff9577bb94e08ca8b468a9": {
+            "author": "DidacLinares",
+            "additions": 69,
+            "deletions": 10,
+            "modified": 79,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "0599e4d9b435e95aaaa8e526506bc864eaec057f": {
+            "author": "DidacLinares",
+            "additions": 34,
+            "deletions": 7,
+            "modified": 41,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "e1ef1027ca22ec543e303446f3311e1521cb33e3": {
+            "author": "DidacLinares",
+            "additions": 4,
+            "deletions": 4,
+            "modified": 8,
+            "date": "2025-05-26",
+            "merge": false
+        },
+        "63fd6b2da28a4243684a15d7fdebf89a6f9a33d6": {
+            "author": "DidacLinares",
+            "additions": 241,
+            "deletions": 73,
+            "modified": 314,
+            "date": "2025-05-26",
+            "merge": false
+        },
+        "e58f776c19a718d8bb599f3ea53cccf8700e5834": {
+            "author": "DidacLinares",
+            "additions": 45,
+            "deletions": 0,
+            "modified": 45,
+            "date": "2025-05-25",
+            "merge": false
+        },
+        "79e8c551dc95b1b542e946282f377a4383e4e292": {
+            "author": "DidacLinares",
+            "additions": 60,
+            "deletions": 18,
+            "modified": 78,
+            "date": "2025-05-25",
+            "merge": false
+        },
+        "d415b35bf29fcf0b2e18b6ab542ce498f9cb7394": {
+            "author": "DidacLinares",
+            "additions": 25,
+            "deletions": 3,
+            "modified": 28,
+            "date": "2025-05-25",
+            "merge": false
+        },
+        "749264306da3e7d4654d52b1c3c289a839edec41": {
+            "author": "DidacLinares",
+            "additions": 67,
+            "deletions": 13,
+            "modified": 80,
+            "date": "2025-05-25",
+            "merge": false
+        },
+        "3c0da5e7dfaee03a04ab8276496b277be24e15c4": {
+            "author": "DidacLinares",
+            "additions": 567,
+            "deletions": 37,
+            "modified": 604,
+            "date": "2025-05-20",
+            "merge": true
+        },
+        "3dffe0a58cc7f530c19f78331bd5e499fbbac113": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 0,
+            "modified": 3,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "d8dec4357a21e1c2280f80726ad6261b13662b98": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "e5cd020af3cf587e4a013fb6a86601869b10f049": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "bce85da9f6862bf5cf1654149f87d37d90702894": {
+            "author": "DidacLinares",
+            "additions": 5,
+            "deletions": 5,
+            "modified": 10,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "2269d6c22b9fe11989c194e743190d9a19185d67": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "a7b03838d3660a72b832c8299ff5b97f236a5ad9": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "f83c112fdb3a3e2b6deceb54b1c9d0c093bf511d": {
+            "author": "DidacLinares",
+            "additions": 49,
+            "deletions": 0,
+            "modified": 49,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "0638acf43ba9bb8647da538d8880160fc7d3fd07": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 49,
+            "modified": 49,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "b64d7f3254e88069d4587aea0e4aecb4e2cdaf10": {
+            "author": "DidacLinares",
+            "additions": 110,
+            "deletions": 48,
+            "modified": 158,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "abcfa522eba7253782f46e98099b2d96d7e5aa0e": {
+            "author": "DidacLinares",
+            "additions": 5,
+            "deletions": 2,
+            "modified": 7,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "6d2dc2103e526fe4182b729fc5a5a885729406fe": {
+            "author": "DidacLinares",
+            "additions": 313,
+            "deletions": 0,
+            "modified": 313,
+            "date": "2025-05-13",
+            "merge": false
+        },
+        "98ef3ec0aedb72d4713d27ba6ba7dc5264ed1e23": {
+            "author": "DidacLinares",
+            "additions": 184,
+            "deletions": 35,
+            "modified": 219,
+            "date": "2025-05-05",
+            "merge": false
+        },
+        "cc3bb5aa393c1e7a5b8040b99285d5fa1b0ad3ed": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 114,
+            "modified": 114,
+            "date": "2025-05-04",
+            "merge": false
+        },
+        "dfe831ca1338d25215c01153606e2bb57b0a5498": {
+            "author": "DidacLinares",
+            "additions": 158,
+            "deletions": 8,
+            "modified": 166,
+            "date": "2025-04-30",
+            "merge": true
+        },
+        "478395344b60e17477af22f4c18405fcf8701c05": {
+            "author": "DidacLinares",
+            "additions": 77,
+            "deletions": 28,
+            "modified": 105,
+            "date": "2025-04-29",
+            "merge": false
+        },
+        "dd78de672d7e07e60c1d7ab9ac43223a68a0c039": {
+            "author": "DidacLinares",
+            "additions": 108,
+            "deletions": 7,
+            "modified": 115,
+            "date": "2025-04-29",
+            "merge": false
+        },
+        "4e105fd7a20cd6d7e543ecc2c936007f9b3dd8fc": {
+            "author": "DidacLinares",
+            "additions": 44,
+            "deletions": 35,
+            "modified": 79,
+            "date": "2025-04-23",
+            "merge": true
+        },
+        "3128509db74c2db8087b366b30a3655ebb5470e8": {
+            "author": "DidacLinares",
+            "additions": 44,
+            "deletions": 35,
+            "modified": 79,
+            "date": "2025-04-18",
+            "merge": false
+        },
+        "2ab1009d61536a0eb6beab20be9fe620e26ee878": {
+            "author": "DidacLinares",
+            "additions": 87,
+            "deletions": 0,
+            "modified": 87,
+            "date": "2025-04-18",
+            "merge": true
+        },
+        "d6578626492de3ce29f11a75638f3c4c6082eefb": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-04-18",
+            "merge": false
+        },
+        "b7b7326609b965780d7067c09b82bb92c0a7aca5": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0,
+            "date": "2025-04-18",
+            "merge": false
+        },
+        "e86e9d61f7c520cc1de55ab1b2d04448a3b3cbdf": {
+            "author": "DidacLinares",
+            "additions": 72,
+            "deletions": 0,
+            "modified": 72,
+            "date": "2025-04-18",
+            "merge": false
+        },
+        "fe48eb1b1f65f97981b33f4ee8242c5e23794390": {
+            "author": "DidacLinares",
+            "additions": 6,
+            "deletions": 0,
+            "modified": 6,
+            "date": "2025-04-18",
+            "merge": false
+        },
+        "1d0247dd6ec36e8826234de176ddec48f6ebeffb": {
+            "author": "DidacLinares",
+            "additions": 9,
+            "deletions": 0,
+            "modified": 9,
+            "date": "2025-04-16",
+            "merge": false
+        },
+        "f4a62bb868bd87163e93805444dc4cf868d32415": {
+            "author": "didaclinaresUPC",
+            "additions": 45,
+            "deletions": 7,
+            "modified": 52,
+            "date": "2025-04-16",
+            "merge": true
+        },
+        "c11446664bfeba5f581d94c468390ab811e9e4d6": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-04-16",
+            "merge": false
+        },
+        "88731ad038f9d5e27e82048582e27b62e01d0b62": {
+            "author": "DidacLinares",
+            "additions": 32,
+            "deletions": 16,
+            "modified": 48,
+            "date": "2025-04-16",
+            "merge": false
+        },
+        "9a6c320b9eb761bbb9085da9c8e497c6b709e002": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 2,
+            "modified": 2,
+            "date": "2025-04-14",
+            "merge": false
+        },
+        "c519663c8af4a8e1574fdea1601d4550a5657e9f": {
+            "author": "DidacLinares",
+            "additions": 25,
+            "deletions": 1,
+            "modified": 26,
+            "date": "2025-04-14",
+            "merge": false
+        },
+        "15b228d90601f1e6b58b1084140a42f93eb11c9e": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 2,
+            "modified": 5,
+            "date": "2025-04-11",
+            "merge": true
+        },
+        "427fa1c20aeee3a9a8b70a2a29f43c4cd382b759": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 1,
+            "modified": 3,
+            "date": "2025-04-11",
+            "merge": false
+        },
+        "b12d30d750a797bf9b9140bd34e2c8f501c84dc8": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-04-11",
+            "merge": false
+        },
+        "5186e63596bcbad77304ec88dea79d5f77c762b3": {
+            "author": "didaclinaresUPC",
+            "additions": 157,
+            "deletions": 54,
+            "modified": 211,
+            "date": "2025-04-10",
+            "merge": true
+        },
+        "e43512c8e34d320e2eb2c3fc36988118160c16b9": {
+            "author": "DidacLinares",
+            "additions": 10,
+            "deletions": 1,
+            "modified": 11,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "985f3bf1ae937bd0a86ff7a44e3e82057ff26124": {
+            "author": "DidacLinares",
+            "additions": 19,
+            "deletions": 5,
+            "modified": 24,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "099f4eb95401b5c7a93d97302be3c15bdd0737c1": {
+            "author": "DidacLinares",
+            "additions": 24,
+            "deletions": 109,
+            "modified": 133,
+            "date": "2025-04-09",
+            "merge": false
+        },
+        "c97a8054c354ee2c5c1b0f4b1398567276408dcc": {
+            "author": "DidacLinares",
+            "additions": 115,
+            "deletions": 44,
+            "modified": 159,
+            "date": "2025-04-09",
+            "merge": true
+        },
+        "029a81cb49c8c175dd9786fdad4543cb8d0d9980": {
+            "author": "DidacLinares",
+            "additions": 166,
+            "deletions": 1,
+            "modified": 167,
+            "date": "2025-04-09",
+            "merge": false
+        },
+        "71497eca0ba2baa2dbe400d054b5ed8a9a4a6c0e": {
+            "author": "DidacLinares",
+            "additions": 10,
+            "deletions": 4,
+            "modified": 14,
+            "date": "2025-04-04",
+            "merge": false
+        },
+        "492be13dd6725d1038ed2c80dd9fa0c2669c455c": {
+            "author": "DidacLinares",
+            "additions": 47,
+            "deletions": 21,
+            "modified": 68,
+            "date": "2025-04-04",
+            "merge": false
+        },
+        "08990ad8e9e4fde97edc89eaa991af4278c19d43": {
+            "author": "DidacLinares",
+            "additions": 78,
+            "deletions": 39,
+            "modified": 117,
+            "date": "2025-04-04",
+            "merge": false
+        },
+        "1178afbb2384fafd7b40fb0f736d42fec3a124f7": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-04-03",
+            "merge": false
+        },
+        "e3294e2e55da88673e952f7ad99b79cc2f0029a8": {
+            "author": "DidacLinares",
+            "additions": 98,
+            "deletions": 10,
+            "modified": 108,
+            "date": "2025-04-03",
+            "merge": true
+        },
+        "7744f0f2153f1eaed8cd981ecd57591c6d74d2bb": {
+            "author": "DidacLinares",
+            "additions": 22,
+            "deletions": 2,
+            "modified": 24,
+            "date": "2025-04-03",
+            "merge": false
+        },
+        "b926035c1c7cf453945ca912eea9543d235462a4": {
+            "author": "DidacLinares",
+            "additions": 33,
+            "deletions": 8,
+            "modified": 41,
+            "date": "2025-04-03",
+            "merge": false
+        },
+        "15b693de679b8bca7146f52ae7e337e919d5d0e2": {
+            "author": "DidacLinares",
+            "additions": 44,
+            "deletions": 0,
+            "modified": 44,
+            "date": "2025-04-02",
+            "merge": false
+        },
+        "07cef11fdb290f5211f667db5b55c087f7c334bf": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 1,
+            "modified": 1,
+            "date": "2025-04-02",
+            "merge": false
+        },
+        "36e8c09c3e00707a1084c4f2ac8b92834b7d599e": {
+            "author": "DidacLinares",
+            "additions": 125,
+            "deletions": 79,
+            "modified": 204,
+            "date": "2025-04-02",
+            "merge": true
+        },
+        "865922a59fd876952201ce08982e6c0ed7f61547": {
+            "author": "DidacLinares",
+            "additions": 18,
+            "deletions": 8,
+            "modified": 26,
+            "date": "2025-04-01",
+            "merge": false
+        },
+        "889e204f5c3594147520ebcff3d9715ecbb3372d": {
+            "author": "DidacLinares",
+            "additions": 116,
+            "deletions": 80,
+            "modified": 196,
+            "date": "2025-04-01",
+            "merge": false
+        },
+        "2827585554ea8e50abf9e8dacf67e753650b69a2": {
+            "author": "DidacLinares",
+            "additions": 172,
+            "deletions": 39,
+            "modified": 211,
+            "date": "2025-03-31",
+            "merge": true
+        },
+        "26627eeb9cad7511a7a485eaf5becdf342cd1b82": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 1,
+            "modified": 3,
+            "date": "2025-03-31",
+            "merge": true
+        },
+        "2c9f45d71b460f35df74e2ca4066c13007b77cfd": {
+            "author": "DidacLinares",
+            "additions": 102,
+            "deletions": 27,
+            "modified": 129,
+            "date": "2025-03-31",
+            "merge": false
+        },
+        "025c78840e8e9062d0fd9b79d36ac55953a5c762": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 7,
+            "modified": 10,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "a917775f52debd795e2e0e3fec07cbaacf85c72b": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "3b140dacfbc1fdca4f312b48f880d84ddcffd381": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 1,
+            "modified": 4,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "bd1e4db62ad592a3896e5238185f4cbb42e07eca": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "464073822fe2ca329f8925a9a71ffbb4d40eecdf": {
+            "author": "DidacLinares",
+            "additions": 9,
+            "deletions": 9,
+            "modified": 18,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "660fda112459cd4dab6e17bd32a927d3c3580566": {
+            "author": "DidacLinares",
+            "additions": 86,
+            "deletions": 28,
+            "modified": 114,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "cdc6f05edc628ffd8d03c58e2de78e12192fca82": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "8fb78b904721c7ce0016ce8d4b6ee279a67403a6": {
+            "author": "DidacLinares",
+            "additions": 11,
+            "deletions": 10,
+            "modified": 21,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "bf94e52875c0ac37c325b3334683617faeac4e27": {
+            "author": "DidacLinares",
+            "additions": 114,
+            "deletions": 9,
+            "modified": 123,
+            "date": "2025-03-29",
+            "merge": false
+        },
+        "214399399c416cdd5e50cf6978a298e9eeebf6d1": {
+            "author": "DidacLinares",
+            "additions": 17,
+            "deletions": 1,
+            "modified": 18,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "cedbaabb9b69b892326c14d79ba0059b5b9072f9": {
+            "author": "DidacLinares",
+            "additions": 45,
+            "deletions": 0,
+            "modified": 45,
+            "date": "2025-03-27",
+            "merge": false
+        },
+        "c1fd453911b542519dd9c35120a2431308723c07": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-10",
+            "merge": false
+        },
+        "5ba55741f08c5ef43174ed943345190e41f33274": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-09",
+            "merge": false
+        },
+        "a8bfb34a493f95bb457f0036986f22ca6d9aa28f": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-08",
+            "merge": false
+        },
+        "43bd49eaef1ee7eac46b36443210da79fd83a9a6": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-07",
+            "merge": false
+        },
+        "bd30b4531e50cc990978f724b2381147ddd2ce7c": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-06",
+            "merge": false
+        },
+        "537efc625355e0eac7290f7b5b82feaf03bc9352": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-05",
+            "merge": false
+        },
+        "e339b0df6f19ded31e3321e2f91ab16ce7c04a1c": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-04",
+            "merge": false
+        },
+        "236bbb38825609ccf30c172acf288f5bde279ecf": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-03",
+            "merge": false
+        },
+        "2c8f4af05fcfec16968f6ff917c50c808b3545e7": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-02",
+            "merge": false
+        },
+        "6b8db7467952613562fb351de69f92f7399f2f50": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-06-01",
+            "merge": false
+        },
+        "e2a25065fa8006248ac1d189dcc932d222b0255c": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-31",
+            "merge": false
+        },
+        "1e86f41a2c33166446176a0628bcfa08a5f00869": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-30",
+            "merge": false
+        },
+        "3f2fc37296d1c1e262860b3f1b4e00df3a2677d9": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-29",
+            "merge": false
+        },
+        "26aa91aceddec2e39dfbdc8359de0cb51d37a2c6": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-28",
+            "merge": false
+        },
+        "42d703185c42db1a42b17b7f4398c103f51faf46": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "4d4a52c25530410b03ff7ac7804ff48a670f8ad3": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-26",
+            "merge": false
+        },
+        "1b902912c1f0c809197004d06493989a321bd419": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-25",
+            "merge": false
+        },
+        "1ce511a4e936e09ffab3833f6f2222eec18baeea": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-24",
+            "merge": false
+        },
+        "aeab8f8e5ef684ecaf33f929ec26d6b6981ef168": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-23",
+            "merge": false
+        },
+        "bc4c99a37340ed7e8fa161d35c00f6109b9de3f8": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-22",
+            "merge": false
+        },
+        "dabaab25f8c1da9d7aeaeb6a455cf5f1f1ac5302": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-21",
+            "merge": false
+        },
+        "79e867f63bfb1838859ad3a51b8601667ec0ee86": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "33dc7281241c419d870b574b126aefb5af908e9a": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-19",
+            "merge": false
+        },
+        "e557396bbe9b629153aea864c791cc6f3fad7211": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-18",
+            "merge": false
+        },
+        "40c261765f953e9e3b6fee034bd19441b920345d": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-17",
+            "merge": false
+        },
+        "00a96bfe5ead4dc82f82fef7bb634315b80083c5": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-16",
+            "merge": false
+        },
+        "e6b7d17bb530890225d3326d9200989f0361f1e2": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-15",
+            "merge": false
+        },
+        "02da135afef43a2f15dfcb3dcb42c25e46d69d4d": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-14",
+            "merge": false
+        },
+        "e4782fe524741b7b65c57a6e4016c9743b0bad49": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-13",
+            "merge": false
+        },
+        "de72c13efd265627e85dc78725471a7e6fdeab36": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-12",
+            "merge": false
+        },
+        "7c8f123f4f2882b6f801b20c99348bd7c55c211a": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-11",
+            "merge": false
+        },
+        "4cbe777c2467cf3e880f3bcc098092bf0e95ca51": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-10",
+            "merge": false
+        },
+        "0f8ce915874cc817cd0f6e2c41e476f516281c33": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "0704c7d77fc7444e3e19009dda9ff6693cae4250": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-08",
+            "merge": false
+        },
+        "47253bacd825920a09a2de4f6b56c3c7ae61a4ee": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-07",
+            "merge": false
+        },
+        "05eb60aee3a81935df72cefa25c8a413362310db": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "841c756e5afedc7bb42aa551143e5611d0816bec": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-05",
+            "merge": false
+        },
+        "30a998498c45bd5f844d7cffec19ad0108e3a5ce": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-04",
+            "merge": false
+        },
+        "2b414ac174a043a0b8b98ecb50a518f9f1ac5a81": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-03",
+            "merge": false
+        },
+        "59a47f26daf0e85454d846e97b411e5547451053": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-02",
+            "merge": false
+        },
+        "ddfe84362f697d0ce678f66f6b7a7fa21711d870": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-05-01",
+            "merge": false
+        },
+        "f1d28e6c79b8000ac746d5fa531c3f0cb0226bf2": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "55400a179353c864a4019fe9565de8bdc003775f": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-29",
+            "merge": false
+        },
+        "ed499691686aca154123fe65b63bae57e979b080": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-28",
+            "merge": false
+        },
+        "69ef06c5b2b0950fd35cee0663bf9a1969e6fbb7": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-27",
+            "merge": false
+        },
+        "34010f11f1ca29d93976e5d2fcc0c4d3599ea1af": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-26",
+            "merge": false
+        },
+        "1b6094b159b4a06e71ee1715e5e87304de20cde1": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-25",
+            "merge": false
+        },
+        "ed630028fd38ca5dcd01bebf0e8eb334ad3e12ca": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-24",
+            "merge": false
+        },
+        "d19027aa6ac914b9f6b338a08ac7add8c42a7ec0": {
+            "author": "github-actions[bot]",
+            "additions": 6,
+            "deletions": 6,
+            "modified": 12,
+            "date": "2025-04-23",
+            "merge": false
+        },
+        "2c5772f03ae2d7af02bf63de4dc9d1a18e9932b8": {
+            "author": "github-actions[bot]",
+            "additions": 12,
+            "deletions": 12,
+            "modified": 24,
+            "date": "2025-04-23",
+            "merge": false
+        },
+        "335d8c3357c06bde1f990d02f08c99d9a5e71492": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-23",
+            "merge": false
+        },
+        "f63f5f172eea74093aa3d29362da9a715bf0be94": {
+            "author": "github-actions[bot]",
+            "additions": 8,
+            "deletions": 8,
+            "modified": 16,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "e97a3f6881d5638f49464ee49f65ecad1d9f53c7": {
+            "author": "github-actions[bot]",
+            "additions": 14,
+            "deletions": 14,
+            "modified": 28,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "fa590267c65ab445e4d5487cc936fc33355827bc": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "b35e17309ab8143ac348b6e384cd48ae84e5f49f": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-21",
+            "merge": false
+        },
+        "0e4be5feb8fc2c559d0573ea4eca6c7e3bf8c03a": {
+            "author": "github-actions[bot]",
+            "additions": 66,
+            "deletions": 0,
+            "modified": 66,
+            "date": "2025-04-20",
+            "merge": false
+        },
+        "59e823887761646a2c19f2284bc3c2bae30c8964": {
+            "author": "github-actions[bot]",
+            "additions": 62,
+            "deletions": 0,
+            "modified": 62,
+            "date": "2025-04-20",
+            "merge": false
+        },
+        "166f0bc56aa80ad5e7175c4c9cf6b68a321f0934": {
+            "author": "github-actions[bot]",
+            "additions": 64,
+            "deletions": 0,
+            "modified": 64,
+            "date": "2025-04-19",
+            "merge": false
+        },
+        "d85edafc993cf0e27362846027f6319de6b35ffd": {
+            "author": "DidacLinares",
+            "additions": 471,
+            "deletions": 53,
+            "modified": 524,
+            "date": "2025-05-30",
+            "merge": true
+        },
+        "9c2dcd56d365e0c9d40808288b3b4650b6285388": {
+            "author": "DidacLinares",
+            "additions": 650,
+            "deletions": 75,
+            "modified": 725,
+            "date": "2025-05-20",
+            "merge": true
+        },
+        "f8efae86b38c19fdf4ae2b490d1094b8d9afff29": {
+            "author": "DidacLinares",
+            "additions": 614,
+            "deletions": 47,
+            "modified": 661,
+            "date": "2025-04-18",
+            "merge": true
+        },
+        "893ca08d96153ded84f62d533c14d73d02cfd87e": {
+            "author": "DidacLinares",
+            "additions": 1545,
+            "deletions": 14693,
+            "modified": 16238,
+            "date": "2025-05-28",
+            "merge": false
+        },
+        "97c22e8248bebe04a5b18a1a4f9f61257a1efc07": {
+            "author": "DidacLinares",
+            "additions": 951,
+            "deletions": 123,
+            "modified": 1074,
+            "date": "2025-05-21",
+            "merge": false
+        },
+        "95304cc35293209d466e3fc786d36be90f41ee8d": {
+            "author": "DidacLinares",
+            "additions": 13327,
+            "deletions": 111,
+            "modified": 13438,
+            "date": "2025-05-13",
+            "merge": false
+        },
+        "7c11ca778b1b593ff2a583adaaa00c38a90ee278": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-05-07",
+            "merge": false
+        },
+        "51e226657dc77d8668fe0bcb0b82b20f5898882c": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-05-07",
+            "merge": false
+        },
+        "56789822cfd4700edc1b8c581b85272a5428297b": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 3,
+            "modified": 6,
+            "date": "2025-05-07",
+            "merge": false
+        },
+        "9375316541110e60602c3039d9be347e1a6a5ab1": {
+            "author": "DidacLinares",
+            "additions": 492,
+            "deletions": 240,
+            "modified": 732,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "84c5d04caf05d900f70b28cea8ccafa1c180cb2b": {
+            "author": "DidacLinares",
+            "additions": 58,
+            "deletions": 46,
+            "modified": 104,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "d6f4211720f91b732a2297017157aadac360f6e4": {
+            "author": "DidacLinares",
+            "additions": 23,
+            "deletions": 22,
+            "modified": 45,
+            "date": "2025-04-27",
+            "merge": false
+        },
+        "6ecd5c38f7263c913d840184159b18b6a0396809": {
+            "author": "DidacLinares",
+            "additions": 15,
+            "deletions": 14,
+            "modified": 29,
+            "date": "2025-04-25",
+            "merge": false
+        },
+        "73bdca86f631becabe26af000620d61f9eee9836": {
+            "author": "DidacLinares",
+            "additions": 23,
+            "deletions": 23,
+            "modified": 46,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "eefa2363de3fd1171d1eaef5e2e198c12f903429": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "05199ce099d0e04674c8ff6d746d9c4563b1b348": {
+            "author": "DidacLinares",
+            "additions": 298,
+            "deletions": 48,
+            "modified": 346,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "95ef6b9578b7a3a98c37ebd298c244f406601afb": {
+            "author": "DidacLinares",
+            "additions": 65,
+            "deletions": 51,
+            "modified": 116,
+            "date": "2025-04-21",
+            "merge": false
+        },
+        "48d1749e76b9209de69b7e3b9c57e1789e50d6aa": {
+            "author": "DidacLinares",
+            "additions": 88,
+            "deletions": 55,
+            "modified": 143,
+            "date": "2025-04-19",
+            "merge": false
+        },
+        "36afc4444f2becbe5fa2a7a14027041592d16dad": {
+            "author": "DidacLinares",
+            "additions": 59,
+            "deletions": 47,
+            "modified": 106,
+            "date": "2025-04-17",
+            "merge": false
+        },
+        "8560180f5c33683608bdc46dcc4ab81f2badb995": {
+            "author": "DidacLinares",
+            "additions": 34,
+            "deletions": 34,
+            "modified": 68,
+            "date": "2025-04-11",
+            "merge": false
+        },
+        "acf3f0e3cd665e441f84dd55c3f696fc670dcc06": {
+            "author": "DidacLinares",
+            "additions": 15,
+            "deletions": 15,
+            "modified": 30,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "38e62474aa3d8c3aa383e97ddb869c37d4d3362f": {
+            "author": "DidacLinares",
+            "additions": 40,
+            "deletions": 40,
+            "modified": 80,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "7da9adebad2ed3e56a47a9f275ce2ba9953560cf": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "bf7b0ed89da99eaefdc53660f8b282d62840f7aa": {
+            "author": "DidacLinares",
+            "additions": 168,
+            "deletions": 63,
+            "modified": 231,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "8dcf71b690fee9dca9be66f9343463eeef64cba4": {
+            "author": "DidacLinares",
+            "additions": 76,
+            "deletions": 0,
+            "modified": 76,
+            "date": "2025-04-08",
+            "merge": false
+        },
+        "e4fbf14fde3ca64886c758faee8b6e61b053f32a": {
+            "author": "DidacLinares",
+            "additions": 344,
+            "deletions": 181,
+            "modified": 525,
+            "date": "2025-06-06",
+            "merge": false
+        },
+        "7aa30eaf8c45bf455cd8f5b61a176d0643c00ac6": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-06-06",
+            "merge": false
+        },
+        "a49f18473322d06bd7aee20029b12765eff0cf7d": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0,
+            "date": "2025-06-06",
+            "merge": false
+        },
+        "db01d2e260c9c915b5377bbb4d40f0481c4676bf": {
+            "author": "DidacLinares",
+            "additions": 8,
+            "deletions": 4,
+            "modified": 12,
+            "date": "2025-06-06",
+            "merge": false
+        },
+        "0bb9baf532f670c14e88eceba4b17e15a1b14caf": {
+            "author": "DidacLinares",
+            "additions": 585,
+            "deletions": 339,
+            "modified": 924,
+            "date": "2025-06-06",
+            "merge": false
+        },
+        "4a0c2220ec20bd503b8326534b050f3fad7bd05c": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-06-05",
+            "merge": false
+        },
+        "d6985cffdb9374434a517666feded714f061afe3": {
+            "author": "DidacLinares",
+            "additions": 121,
+            "deletions": 2,
+            "modified": 123,
+            "date": "2025-06-05",
+            "merge": false
+        },
+        "4d13de6e6a0973b9d3bc9876b2b833c2f03b4bca": {
+            "author": "DidacLinares",
+            "additions": 11,
+            "deletions": 11,
+            "modified": 22,
+            "date": "2025-06-05",
+            "merge": false
+        },
+        "87b1781cb28c58506e35b6248db5677ffc65e0fc": {
+            "author": "DidacLinares",
+            "additions": 164,
+            "deletions": 108,
+            "modified": 272,
+            "date": "2025-06-05",
+            "merge": false
+        },
+        "85657b5e929da43117c23d986a45e3bc6904769b": {
+            "author": "DidacLinares",
+            "additions": 68,
+            "deletions": 72,
+            "modified": 140,
+            "date": "2025-06-05",
+            "merge": false
+        },
+        "960f830c4a7c497a84539950c6aeb1d577f40aaa": {
+            "author": "DidacLinares",
+            "additions": 4,
+            "deletions": 4,
+            "modified": 8,
+            "date": "2025-06-05",
+            "merge": false
+        },
+        "0ae30277e5107fba8a2dc8d9313d480b619fbdba": {
+            "author": "DidacLinares",
+            "additions": 216,
+            "deletions": 80,
+            "modified": 296,
+            "date": "2025-06-04",
+            "merge": false
+        },
+        "36898f46bb6d409a52d40cc4331e44759521fde7": {
+            "author": "DidacLinares",
+            "additions": 174,
+            "deletions": 105,
+            "modified": 279,
+            "date": "2025-06-04",
+            "merge": false
+        },
+        "4a14cb58cd744a1fef43daff1bb1eec52c91383c": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0,
+            "date": "2025-06-04",
+            "merge": false
+        },
+        "40874d83ceea952815c1615795b92f2fb202d491": {
+            "author": "DidacLinares",
+            "additions": 1036,
+            "deletions": 278,
+            "modified": 1314,
+            "date": "2025-06-04",
+            "merge": false
+        },
+        "ce780645c5d08ee17f68aabc3aab8b9234806f1c": {
+            "author": "DidacLinares",
+            "additions": 11,
+            "deletions": 11,
+            "modified": 22,
+            "date": "2025-06-04",
+            "merge": false
+        },
+        "fab55f2830fa111d1025cb3dfde98438188ecccc": {
+            "author": "DidacLinares",
+            "additions": 14,
+            "deletions": 4,
+            "modified": 18,
+            "date": "2025-06-03",
+            "merge": false
+        },
+        "b688cbdf9f0bb5d811f7a632077dd1f14107da9e": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-06-03",
+            "merge": false
+        },
+        "5ab1624f7191d910eada8259c3fd428f616e92b6": {
+            "author": "DidacLinares",
+            "additions": 97,
+            "deletions": 0,
+            "modified": 97,
+            "date": "2025-06-01",
+            "merge": false
+        },
+        "b338c6a251061206ce3fbb8a2b957f054449d994": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 3,
+            "modified": 3,
+            "date": "2025-06-01",
+            "merge": false
+        },
+        "88417875249571ef1c2957ce884c361757e3a874": {
+            "author": "DidacLinares",
+            "additions": 38,
+            "deletions": 8,
+            "modified": 46,
+            "date": "2025-06-01",
+            "merge": false
+        },
+        "38b609c7a2fe5c1be337d33794295f6d3ade904c": {
+            "author": "DidacLinares",
+            "additions": 42,
+            "deletions": 22,
+            "modified": 64,
+            "date": "2025-06-01",
+            "merge": false
+        },
+        "59bb0eed17e02b232af0e228726e572bfe5ebe67": {
+            "author": "DidacLinares",
+            "additions": 177,
+            "deletions": 46,
+            "modified": 223,
+            "date": "2025-06-01",
+            "merge": false
+        },
+        "1984eca4031c5b6a05e190d792236fb2ca484138": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-06-01",
+            "merge": false
+        },
+        "d01806382d8e90811b466f609d1d61f410458116": {
+            "author": "DidacLinares",
+            "additions": 4,
+            "deletions": 4,
+            "modified": 8,
+            "date": "2025-05-31",
+            "merge": false
+        },
+        "b8417708c66c0211de57a8f2a2410078f2159eab": {
+            "author": "DidacLinares",
+            "additions": 0,
+            "deletions": 129,
+            "modified": 129,
+            "date": "2025-05-31",
+            "merge": false
+        },
+        "c86a7af69e8a4dc319bdbdf4e53f00b917585093": {
+            "author": "DidacLinares",
+            "additions": 85,
+            "deletions": 7,
+            "modified": 92,
+            "date": "2025-05-31",
+            "merge": false
+        },
+        "ed5d39517daa73b8e077b6b257545799b0b52c5c": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-05-31",
+            "merge": false
+        },
+        "1cf8852434864b87327afccb47ef95d21457240e": {
+            "author": "DidacLinares",
+            "additions": 60,
+            "deletions": 83,
+            "modified": 143,
+            "date": "2025-05-31",
+            "merge": false
+        },
+        "33f893559ea0365ec0930d132de88c733047418b": {
+            "author": "DidacLinares",
+            "additions": 84,
+            "deletions": 268,
+            "modified": 352,
+            "date": "2025-05-30",
+            "merge": false
+        },
+        "1caaaae0d11d95700a27b755b0bd354a949ce638": {
+            "author": "DidacLinares",
+            "additions": 414,
+            "deletions": 64,
+            "modified": 478,
+            "date": "2025-05-30",
+            "merge": true
+        },
+        "b45b744005ecaec483d5bfed3232cd9ec70abdf3": {
+            "author": "DidacLinares",
+            "additions": 20,
+            "deletions": 6,
+            "modified": 26,
+            "date": "2025-05-30",
+            "merge": false
+        },
+        "b7049307e624406185bba41cb31089f9e60c11f3": {
+            "author": "DidacLinares",
+            "additions": 113,
+            "deletions": 18,
+            "modified": 131,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "ae7cdcc96df6f3cf3014a3fdf0972e5c1f5b8c3a": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 3,
+            "modified": 6,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "05e19c21c1b1e385f07689d4ea1e6dd3adf0336a": {
+            "author": "DidacLinares",
+            "additions": 115,
+            "deletions": 9,
+            "modified": 124,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "ab2cb3479384d280838830a3b548dd2abd964f3e": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 3,
+            "modified": 6,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "21293bb32e937ce78c0e76c36dcb98ab3256dfeb": {
+            "author": "DidacLinares",
+            "additions": 174,
+            "deletions": 39,
+            "modified": 213,
+            "date": "2025-05-27",
+            "merge": false
+        },
+        "12340fcb5eab81048ec5955a47aa544188231dd2": {
+            "author": "DidacLinares",
+            "additions": 53,
+            "deletions": 19,
+            "modified": 72,
+            "date": "2025-05-20",
+            "merge": true
+        },
+        "bc50510d9cb40aad071ef6022d963517b249045e": {
+            "author": "DidacLinares",
+            "additions": 34,
+            "deletions": 23,
+            "modified": 57,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "a99d78ebb7087b00329eba1589094aeefc09aa92": {
+            "author": "DidacLinares",
+            "additions": 36,
+            "deletions": 13,
+            "modified": 49,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "55e0b6046393fb480ba36e2a870b0126d9e7ca7e": {
+            "author": "DidacLinares",
+            "additions": 374,
+            "deletions": 20,
+            "modified": 394,
+            "date": "2025-05-20",
+            "merge": true
+        },
+        "e8cd9aab647b4ef08a2f3e2524edffa77e751100": {
+            "author": "DidacLinares",
+            "additions": 103,
+            "deletions": 6,
+            "modified": 109,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "d9759827d364c1a4cebc595d34609fc4da52de6c": {
+            "author": "DidacLinares",
+            "additions": 215,
+            "deletions": 13,
+            "modified": 228,
+            "date": "2025-05-20",
+            "merge": false
+        },
+        "03a0bec08cdff8ff17fa66fa777936296a867aa9": {
+            "author": "DidacLinares",
+            "additions": 59,
+            "deletions": 4,
+            "modified": 63,
+            "date": "2025-05-13",
+            "merge": false
+        },
+        "d6e0b3fe3a29d97d9a5ed15043b78a6a279509ab": {
+            "author": "DidacLinares",
+            "additions": 679,
+            "deletions": 142,
+            "modified": 821,
+            "date": "2025-05-09",
+            "merge": true
+        },
+        "42e67519fdebe2528102f30b9fb7c843486e0eb5": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "0e07ec54e0c62cee7239da1508ea0ba89f9ce880": {
+            "author": "DidacLinares",
+            "additions": 23,
+            "deletions": 6,
+            "modified": 29,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "9fecd4b5df59530a52b3d12560b5000a5bdaae65": {
+            "author": "DidacLinares",
+            "additions": 20,
+            "deletions": 0,
+            "modified": 20,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "702d3cc597a9f16e6198984f9966d8f4c9a2037e": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "52e75c7bb1ca723d3e45e8d853fe9d77b00a306f": {
+            "author": "DidacLinares",
+            "additions": 5,
+            "deletions": 5,
+            "modified": 10,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "6a52403b660d9e70476888c6f8d02738bd6d97a9": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 3,
+            "modified": 5,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "eec9da4502f83ff069da61428fac683d5277d3ae": {
+            "author": "DidacLinares",
+            "additions": 17,
+            "deletions": 5,
+            "modified": 22,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "fe4d778c6989f4d8994c102a4836c0e9b7d89365": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 1,
+            "modified": 2,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "3b412a016731aaa30ecb7f2c74f7b3cd76dcbbfe": {
+            "author": "DidacLinares",
+            "additions": 30,
+            "deletions": 10,
+            "modified": 40,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "5961033a378684d588000462091f278af61714f5": {
+            "author": "DidacLinares",
+            "additions": 67,
+            "deletions": 38,
+            "modified": 105,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "149ae20d288b8eef260ad6123c54d7450e63904e": {
+            "author": "DidacLinares",
+            "additions": 143,
+            "deletions": 9,
+            "modified": 152,
+            "date": "2025-05-09",
+            "merge": false
+        },
+        "19147dbfef22722c23020dedb37b46a0ce77289d": {
+            "author": "DidacLinares",
+            "additions": 121,
+            "deletions": 10,
+            "modified": 131,
+            "date": "2025-05-08",
+            "merge": false
+        },
+        "38309368ab4880934191bbe906798686a1f483b6": {
+            "author": "DidacLinares",
+            "additions": 16,
+            "deletions": 34,
+            "modified": 50,
+            "date": "2025-05-08",
+            "merge": false
+        },
+        "3e3cbefc5d81081645c510de5f5080400d8925ce": {
+            "author": "DidacLinares",
+            "additions": 21,
+            "deletions": 4,
+            "modified": 25,
+            "date": "2025-05-08",
+            "merge": false
+        },
+        "c898b72d1a0e1d93389c39ccc3140fd251f730ea": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 2,
+            "modified": 4,
+            "date": "2025-05-07",
+            "merge": false
+        },
+        "b431d602d714557f09f37abb71d014ebb76816e1": {
+            "author": "DidacLinares",
+            "additions": 35,
+            "deletions": 5,
+            "modified": 40,
+            "date": "2025-05-07",
+            "merge": false
+        },
+        "fac8ca24f9a12da15153a79fa50841bf279b4bc2": {
+            "author": "DidacLinares",
+            "additions": 195,
+            "deletions": 30,
+            "modified": 225,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "f715ae4ad1aa9cd341c111645a297ea3f2af1c1c": {
+            "author": "DidacLinares",
+            "additions": 199,
+            "deletions": 3,
+            "modified": 202,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "b6b130b01dda900296a86be4e5763f66fb66b683": {
+            "author": "DidacLinares",
+            "additions": 507,
+            "deletions": 38,
+            "modified": 545,
+            "date": "2025-05-06",
+            "merge": true
+        },
+        "546eb4a134a1b0f08c6ac73264227c68e4745ba0": {
+            "author": "DidacLinares",
+            "additions": 351,
+            "deletions": 40,
+            "modified": 391,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "b0df1881a58fe513f062dc7cf95e58fe7f453b52": {
+            "author": "DidacLinares",
+            "additions": 158,
+            "deletions": 0,
+            "modified": 158,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "a1c398c23444d36696c4e357ede5c7869982c855": {
+            "author": "DidacLinares",
+            "additions": 656,
+            "deletions": 357,
+            "modified": 1013,
+            "date": "2025-05-06",
+            "merge": true
+        },
+        "a9e02525822a74fefe3f421d782eb319adf6de98": {
+            "author": "DidacLinares",
+            "additions": 1,
+            "deletions": 0,
+            "modified": 1,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "c272dc845f2276a1aa62d46abde2374fbe0d2a18": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 3,
+            "modified": 6,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "9480a5d8c38924bd918b58ae5dcec2059bd4d4dd": {
+            "author": "DidacLinares",
+            "additions": 94,
+            "deletions": 33,
+            "modified": 127,
+            "date": "2025-05-06",
+            "merge": false
+        },
+        "e1661614645ee7cca1b11adda8243f30ec3534b2": {
+            "author": "DidacLinares",
+            "additions": 41,
+            "deletions": 26,
+            "modified": 67,
+            "date": "2025-05-04",
+            "merge": false
+        },
+        "86797dd5340e5f74c4b181b230b80f7d643bbb74": {
+            "author": "DidacLinares",
+            "additions": 11,
+            "deletions": 17,
+            "modified": 28,
+            "date": "2025-05-04",
+            "merge": false
+        },
+        "e95f68fcb9f1918f8fba2277762e215f0b2b9939": {
+            "author": "DidacLinares",
+            "additions": 50,
+            "deletions": 2,
+            "modified": 52,
+            "date": "2025-05-04",
+            "merge": false
+        },
+        "90db2c0bdd979d9f98c2f2703aa785dc4759739b": {
+            "author": "DidacLinares",
+            "additions": 184,
+            "deletions": 52,
+            "modified": 236,
+            "date": "2025-05-04",
+            "merge": false
+        },
+        "08a174db3c48b386ed6aa2b1974faf6a533311f9": {
+            "author": "DidacLinares",
+            "additions": 91,
+            "deletions": 72,
+            "modified": 163,
+            "date": "2025-05-01",
+            "merge": false
+        },
+        "c156935c6d651e2444e4c6efabda441cbf7883a8": {
+            "author": "DidacLinares",
+            "additions": 149,
+            "deletions": 150,
+            "modified": 299,
+            "date": "2025-05-01",
+            "merge": false
+        },
+        "c2515ad80c868426c33b1727ef70d00f4cc1920c": {
+            "author": "DidacLinares",
+            "additions": 3,
+            "deletions": 3,
+            "modified": 6,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "d1225715070e41f326d863a228adc80e15872a83": {
+            "author": "DidacLinares",
+            "additions": 152,
+            "deletions": 122,
+            "modified": 274,
+            "date": "2025-04-30",
+            "merge": false
+        },
+        "edeb7565e63cb342fb4d1f6ffe7d1dfe676462c6": {
+            "author": "DidacLinares",
+            "additions": 222,
+            "deletions": 96,
+            "modified": 318,
+            "date": "2025-04-30",
+            "merge": true
+        },
+        "01d20dc838a187bf228062cd325354504f807a3e": {
+            "author": "DidacLinares",
+            "additions": 32,
+            "deletions": 1,
+            "modified": 33,
+            "date": "2025-04-29",
+            "merge": false
+        },
+        "4d0595f81b1a71b6dce37ee2bc64c35d04c56eca": {
+            "author": "DidacLinares",
+            "additions": 107,
+            "deletions": 75,
+            "modified": 182,
+            "date": "2025-04-29",
+            "merge": false
+        },
+        "1d54160b3a5578226ceedfea448e0400cd6f0340": {
+            "author": "DidacLinares",
+            "additions": 24,
+            "deletions": 8,
+            "modified": 32,
+            "date": "2025-04-29",
+            "merge": false
+        },
+        "d37cc018e3e1f650aabfb0b39fe646316bc6a461": {
+            "author": "DidacLinares",
+            "additions": 59,
+            "deletions": 12,
+            "modified": 71,
+            "date": "2025-04-27",
+            "merge": false
+        },
+        "17a9423fc1458007931b7562fa764d3da6a04f16": {
+            "author": "DidacLinares",
+            "additions": 390,
+            "deletions": 34,
+            "modified": 424,
+            "date": "2025-04-27",
+            "merge": true
+        },
+        "ba82605e3283caebc5fd649593b83359cacf040f": {
+            "author": "DidacLinares",
+            "additions": 18,
+            "deletions": 3,
+            "modified": 21,
+            "date": "2025-04-25",
+            "merge": false
+        },
+        "16920218866c8d071d00bdceb5c6ed5a9a41f67f": {
+            "author": "DidacLinares",
+            "additions": 52,
+            "deletions": 3,
+            "modified": 55,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "9551d3eabcb2cccfce70b95a94f54f8f1473d13d": {
+            "author": "DidacLinares",
+            "additions": 9,
+            "deletions": 9,
+            "modified": 18,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "3a26ce763ce1047bcb1c7d4a985cdef3927d98fd": {
+            "author": "DidacLinares",
+            "additions": 277,
+            "deletions": 57,
+            "modified": 334,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "a6455fafc665c0f5a14b88c02ee445e5a3c5d05d": {
+            "author": "DidacLinares",
+            "additions": 95,
+            "deletions": 23,
+            "modified": 118,
+            "date": "2025-04-22",
+            "merge": false
+        },
+        "47ed311e2b9425f34577f02a35160d50e1d2fcb4": {
+            "author": "DidacLinares",
+            "additions": 194,
+            "deletions": 21,
+            "modified": 215,
+            "date": "2025-04-22",
+            "merge": true
+        },
+        "9a241af36d5afc5114d55111220ec58a657b29c2": {
+            "author": "DidacLinares",
+            "additions": 30,
+            "deletions": 3,
+            "modified": 33,
+            "date": "2025-04-21",
+            "merge": false
+        },
+        "8b0f422e8721dd17086ccfe612b837489f65be94": {
+            "author": "DidacLinares",
+            "additions": 52,
+            "deletions": 0,
+            "modified": 52,
+            "date": "2025-04-21",
+            "merge": false
+        },
+        "3ecf02c9bfff73130c0752a6edda7f789b5b32f6": {
+            "author": "DidacLinares",
+            "additions": 113,
+            "deletions": 19,
+            "modified": 132,
+            "date": "2025-04-21",
+            "merge": false
+        },
+        "c83f21c8352f1d534eb283851c3aa5386cd7db81": {
+            "author": "DidacLinares",
+            "additions": 598,
+            "deletions": 59,
+            "modified": 657,
+            "date": "2025-04-20",
+            "merge": true
+        },
+        "90e56540a9b48eb154278468f8a2054967c5cf11": {
+            "author": "DidacLinares",
+            "additions": 73,
+            "deletions": 16,
+            "modified": 89,
+            "date": "2025-04-20",
+            "merge": false
+        },
+        "43c5eef7f29e7997366c740ba2e8a82ceb458178": {
+            "author": "DidacLinares",
+            "additions": 21,
+            "deletions": 1,
+            "modified": 22,
+            "date": "2025-04-19",
+            "merge": false
+        },
+        "ed674fb4eb94afb677c9239539db47544ee31c7d": {
+            "author": "DidacLinares",
+            "additions": 102,
+            "deletions": 70,
+            "modified": 172,
+            "date": "2025-04-19",
+            "merge": false
+        },
+        "6a0144096f2477bf89aff5c054babf03e3104386": {
+            "author": "DidacLinares",
+            "additions": 322,
+            "deletions": 1,
+            "modified": 323,
+            "date": "2025-04-17",
+            "merge": false
+        },
+        "9ed784afa47bb1d4e61119ceb379292c5c59c1fe": {
+            "author": "DidacLinares",
+            "additions": 114,
+            "deletions": 48,
+            "modified": 162,
+            "date": "2025-04-17",
+            "merge": false
+        },
+        "191b65d4df71076be1f7b475dea7fbd75f44deea": {
+            "author": "DidacLinares",
+            "additions": 43,
+            "deletions": 0,
+            "modified": 43,
+            "date": "2025-04-16",
+            "merge": false
+        },
+        "2d67a2d2c8621a7c8f88c1caf42b62336711ee4c": {
+            "author": "DidacLinares",
+            "additions": 748,
+            "deletions": 111,
+            "modified": 859,
+            "date": "2025-04-16",
+            "merge": true
+        },
+        "623422c56ad8099dd91ea3c2ac7de518f977b69c": {
+            "author": "DidacLinares",
+            "additions": 40,
+            "deletions": 19,
+            "modified": 59,
+            "date": "2025-04-16",
+            "merge": false
+        },
+        "9898a2239eb8ac4cccd729ff0dc41f695321b54a": {
+            "author": "DidacLinares",
+            "additions": 75,
+            "deletions": 3,
+            "modified": 78,
+            "date": "2025-04-15",
+            "merge": false
+        },
+        "67f39d5362583ac2bdae471426cee209ffd4b89e": {
+            "author": "DidacLinares",
+            "additions": 84,
+            "deletions": 3,
+            "modified": 87,
+            "date": "2025-04-11",
+            "merge": false
+        },
+        "2cfe521c0a1a08dfed7945d2213f78206d8b3e67": {
+            "author": "DidacLinares",
+            "additions": 14,
+            "deletions": 17,
+            "modified": 31,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "b6c3c2fb01f7ddefc13c2852dd394ef3e2ad4c47": {
+            "author": "DidacLinares",
+            "additions": 49,
+            "deletions": 6,
+            "modified": 55,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "6a25d3da0808e63f34b0c6fbfd3bb14fa54f6805": {
+            "author": "DidacLinares",
+            "additions": 6,
+            "deletions": 0,
+            "modified": 6,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "6e91caa23a2900d0cc8f8c88102cde8184c3bf10": {
+            "author": "DidacLinares",
+            "additions": 78,
+            "deletions": 3,
+            "modified": 81,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "60bb9bb22bba80035e9958331ddf2de10c4354b9": {
+            "author": "DidacLinares",
+            "additions": 356,
+            "deletions": 15,
+            "modified": 371,
+            "date": "2025-04-10",
+            "merge": false
+        },
+        "21436ac53b6d55be3e111ce69ddb63d5a72e5f96": {
+            "author": "DidacLinares",
+            "additions": 2,
+            "deletions": 1,
+            "modified": 3,
+            "date": "2025-04-08",
+            "merge": false
+        },
+        "bb546155150bb897f3fb55c2f4e8862891a1a5f9": {
+            "author": "DidacLinares",
+            "additions": 90,
+            "deletions": 90,
+            "modified": 180,
+            "date": "2025-04-08",
+            "merge": false
+        },
+        "57d4c9c0a3a1b5b7dda82a89a84e58c5841c85a9": {
+            "author": "DidacLinares",
+            "additions": 3181,
+            "deletions": 0,
+            "modified": 3181,
+            "date": "2025-04-07",
+            "merge": false
+        },
+        "9d2d33bd0270f31e065f0f7afdefb4d7ad88740f": {
+            "author": "DidacLinares",
+            "additions": 1632,
+            "deletions": 847,
+            "modified": 2479,
+            "date": "2025-06-04",
+            "merge": true
+        },
+        "470e5e2dff4cf8d5a44ecc66f01e4d0c80766cf8": {
+            "author": "DidacLinares",
+            "additions": 1632,
+            "deletions": 847,
+            "modified": 2479,
+            "date": "2025-06-04",
+            "merge": true
+        },
+        "4475b5e3434749004e7a1b03bc93f2f107745f28": {
+            "author": "DidacLinares",
+            "additions": 414,
+            "deletions": 64,
+            "modified": 478,
+            "date": "2025-05-30",
+            "merge": true
+        },
+        "1c2712e304fdd33bec18624cfb6370193627ccbb": {
+            "author": "DidacLinares",
+            "additions": 3836,
+            "deletions": 116,
+            "modified": 3952,
+            "date": "2025-05-20",
+            "merge": true
+        }
+    }
+}
