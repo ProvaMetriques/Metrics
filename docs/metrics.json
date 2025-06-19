@@ -232,7 +232,7 @@
     },
     "pull_requests": {
         "created": {
-            "DidacLinares": 1,
+            "DidacLinares": 2,
             "didaclinaresUPC": 1
         },
         "merged_per_member": {
@@ -241,7 +241,7 @@
         },
         "merged": 2,
         "not_merged_by_author": 1,
-        "closed": 0,
-        "total": 2
+        "closed": 1,
+        "total": 3
     }
 }
