@@ -5,9 +5,9 @@
     },
     "commits": {
         "DidacLinares": 5,
-        "didaclinaresUPC": 0,
+        "didaclinaresUPC": 1,
         "anonymous": 0,
-        "total": 5
+        "total": 6
     },
     "modified_lines": {
         "DidacLinares": {
@@ -16,24 +16,24 @@
             "modified": 43
         },
         "didaclinaresUPC": {
-            "additions": 0,
-            "deletions": 0,
-            "modified": 0
+            "additions": 3,
+            "deletions": 1,
+            "modified": 4
         },
         "total": {
-            "additions": 40,
-            "deletions": 3,
-            "modified": 43
+            "additions": 43,
+            "deletions": 4,
+            "modified": 47
         }
     },
     "commit_streak": {
         "DidacLinares": 1,
-        "didaclinaresUPC": 0
+        "didaclinaresUPC": 1
     },
     "commit_merges": 0,
     "longest_commit_streak_per_user": {
         "DidacLinares": 1,
-        "didaclinaresUPC": 0
+        "didaclinaresUPC": 1
     },
     "issues": {
         "assigned": {
