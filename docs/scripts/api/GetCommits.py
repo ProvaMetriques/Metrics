@@ -60,14 +60,16 @@ class GetCommits(APInterface):
                 for commit_data in commits_data_graphql:
                     commit = commit_data['node']
                     sha = commit['oid']
-                    autor = commit['author']['user']['login']
+                    author = ""
+                    if commit.get('author') and commit['author'].get('user') and commit['author']['user'].get('login'):
+                        author = commit['author']['user']['login']                     
                     additions = commit['additions']
                     deletions = commit['deletions']
                     date =  datetime.strptime(commit['committedDate'], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
                     modified_lines = additions + deletions
                     if sha not in data:
                         data[sha] = {
-                            "author": autor,
+                            "author": author,
                             "additions": additions,
                             "deletions": deletions,
                             "modified": modified_lines,
