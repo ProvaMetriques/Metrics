@@ -168,29 +168,29 @@
             },
             "no_iteration": {
                 "assigned_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 2,
                     "didaclinaresUPC": 1,
                     "non_assigned": 1
                 },
                 "todo_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0
                 },
                 "done_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 1
                 },
-                "todo": 1,
-                "in_progress": 0,
+                "todo": 2,
+                "in_progress": 1,
                 "done": 1,
                 "total_issues": 7,
-                "total_issues_with_type": 4,
+                "total_issues_with_type": 6,
                 "total_features": 1,
-                "total_tasks": 2,
+                "total_tasks": 4,
                 "total_bugs": 1,
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
@@ -199,29 +199,29 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 2,
                     "didaclinaresUPC": 1,
                     "non_assigned": 1
                 },
                 "todo_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0
                 },
                 "done_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 1
                 },
-                "todo": 1,
-                "in_progress": 0,
+                "todo": 2,
+                "in_progress": 1,
                 "done": 1,
                 "total_issues": 8,
-                "total_issues_with_type": 4,
+                "total_issues_with_type": 6,
                 "total_features": 1,
-                "total_tasks": 2,
+                "total_tasks": 4,
                 "total_bugs": 1,
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
