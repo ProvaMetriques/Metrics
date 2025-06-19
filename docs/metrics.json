@@ -30,7 +30,7 @@
         "DidacLinares": 2,
         "didaclinaresUPC": 1
     },
-    "commit_merges": 1,
+    "commit_merges": 2,
     "longest_commit_streak_per_user": {
         "DidacLinares": 2,
         "didaclinaresUPC": 1
@@ -42,12 +42,12 @@
             "non_assigned": 0
         },
         "closed": {
-            "DidacLinares": 0,
+            "DidacLinares": 1,
             "didaclinaresUPC": 0
         },
-        "have_pull_request": 0,
-        "assignee_is_pr_author": 0,
-        "total_closed": 0,
+        "have_pull_request": 1,
+        "assignee_is_pr_author": 1,
+        "total_closed": 1,
         "total": 2
     },
     "project": {
@@ -237,10 +237,10 @@
         },
         "merged_per_member": {
             "DidacLinares": 0,
-            "didaclinaresUPC": 1
+            "didaclinaresUPC": 2
         },
-        "merged": 1,
-        "not_merged_by_author": 0,
+        "merged": 2,
+        "not_merged_by_author": 1,
         "closed": 0,
         "total": 2
     }
