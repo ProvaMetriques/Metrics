@@ -37,7 +37,7 @@
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 2,
+            "DidacLinares": 3,
             "didaclinaresUPC": 1,
             "non_assigned": 5
         },
@@ -48,7 +48,7 @@
         "have_pull_request": 1,
         "assignee_is_pr_author": 1,
         "total_closed": 2,
-        "total": 8
+        "total": 9
     },
     "project": {
         "has_iterations": true,
@@ -187,7 +187,7 @@
                 "todo": 1,
                 "in_progress": 0,
                 "done": 1,
-                "total_issues": 6,
+                "total_issues": 7,
                 "total_issues_with_type": 4,
                 "total_features": 1,
                 "total_tasks": 2,
@@ -195,7 +195,7 @@
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 7
+                "total": 8
             },
             "total": {
                 "assigned_per_member": {
@@ -218,7 +218,7 @@
                 "todo": 1,
                 "in_progress": 0,
                 "done": 1,
-                "total_issues": 6,
+                "total_issues": 7,
                 "total_issues_with_type": 4,
                 "total_features": 1,
                 "total_tasks": 2,
@@ -226,7 +226,7 @@
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 7
+                "total": 8
             }
         }
     },
