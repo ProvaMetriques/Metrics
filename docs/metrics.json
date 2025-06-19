@@ -37,9 +37,9 @@
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 4,
+            "DidacLinares": 3,
             "didaclinaresUPC": 1,
-            "non_assigned": 5
+            "non_assigned": 6
         },
         "closed": {
             "DidacLinares": 1,
@@ -94,7 +94,7 @@
                 "todo": 0,
                 "in_progress": 0,
                 "done": 0,
-                "total_issues": 0,
+                "total_issues": 1,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
@@ -102,7 +102,7 @@
                 "total_features_todo": 0,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 0
+                "total": 1
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -187,7 +187,7 @@
                 "todo": 1,
                 "in_progress": 0,
                 "done": 1,
-                "total_issues": 8,
+                "total_issues": 7,
                 "total_issues_with_type": 4,
                 "total_features": 1,
                 "total_tasks": 2,
@@ -195,7 +195,7 @@
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 9
+                "total": 8
             },
             "total": {
                 "assigned_per_member": {
